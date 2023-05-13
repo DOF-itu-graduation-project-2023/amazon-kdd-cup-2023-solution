@@ -1,3 +1,3 @@
 # EMBEDDINGS
 
-That directory contains generated w2v embeddings
+That directory contains generated w2v embeddings.
