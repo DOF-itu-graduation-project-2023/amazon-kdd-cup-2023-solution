@@ -7,3 +7,7 @@
 5. run 'embedding-composition.ipynb' for each locale (you may change alpha value for embedding composition)
 
 Embeddings are created with these steps! After that you can train SR-GNN for each locale
+
+
+
+![alt text](https://github.com/DOF-itu-graduation-project-2023/amazon-kdd-cup-2023-solution/blob/main/poster.png)
